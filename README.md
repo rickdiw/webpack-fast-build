@@ -8,5 +8,6 @@ webpack 多页面打包，生成雪碧图
   npm run start
   
 生成 
-  npm run dev (未压缩)
+  npm run dev (未压缩)  
+  
   npm run build (压缩)
